@@ -1,0 +1,1 @@
+# Containerized-Django-Application-Deployment-for-AWS-ECS-ECR
